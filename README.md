@@ -1,5 +1,5 @@
 
-# CODE FOR GIRLS Git/Github Workshop
+# CODE FOR GIRLS Git/github Workshop
 By contributing to this repository, we will have fun and get to know each other.
 
 ## Built With
